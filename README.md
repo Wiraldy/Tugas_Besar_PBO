@@ -1,4 +1,4 @@
-#Aplkasi Luxe Up
+# Aplkasi Luxe Up
 
 **Deskripsi**
 Aplikasi ini memungkinkan pengguna untuk mencari, memilih, dan membeli pakaian berkualitas kapan saja dan dari mana saja tanpa perlu mengunjungi toko fisik. LuxeUp dirancang untuk meningkatkan kepuasan pengguna dengan menghadirkan fitur-fitur canggih yang mempermudah transaksi.
